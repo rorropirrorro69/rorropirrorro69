@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://generated-image-url.png" alt="Andre Macouzet Banner" width="100%">
+</div>
+
 # Hi, I'm André Macouzet 👋
 
 ### Data Scientist | Machine Learning Engineer | Data Analyst
@@ -56,7 +60,4 @@ I am a data enthusiast focused on transforming complex datasets into actionable 
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/andremacouzet/](https://www.linkedin.com/in/andremacouzet/)
-- **Email:** [Tu Email Aquí]
-
-"Si quieres conectar o colaborar en proyectos de Ciencia de Datos, ¡escríbeme!"
-
+- **Email:** andre.macouzet@example.com
