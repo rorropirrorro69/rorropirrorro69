@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://generated-image-url.png" alt="Andre Macouzet Banner" width="100%">
-</div>
+
 
 # Hi, I'm André Macouzet 👋
 
